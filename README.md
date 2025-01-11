@@ -1,3 +1,3 @@
 # odin-recipes
 
-I'm learning HTML. This porject is for practice.
+I'm learning HTML. This project is for practice.
